@@ -332,7 +332,7 @@
             <v6WtE>0</v6WtE>
             <v6Rtti>0</v6Rtti>
             <VariousControls>
-              <MiscControls>--fpu fpv5_d16</MiscControls>
+              <MiscControls>--fpu fpv4-sp</MiscControls>
               <Define>__FPU_PRESENT</Define>
               <Undefine></Undefine>
               <IncludePath></IncludePath>
@@ -369,7 +369,7 @@
             <ScatterFile></ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
-            <Misc>--fpu fpv5_d16</Misc>
+            <Misc>--fpu fpv4-sp</Misc>
             <LinkerInputFile></LinkerInputFile>
             <DisabledWarnings></DisabledWarnings>
           </LDads>
